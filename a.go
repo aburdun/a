@@ -1,5 +1,5 @@
-package stringUtils
+package a
 
 func GetVersion() string {
-	return "A-v.2"
+	return " a v3"
 }
